@@ -522,3 +522,4 @@ void loop() {
    delay(30);
 }
 ```
+[Video de la practica 6](img/Proximidad.mp4)
